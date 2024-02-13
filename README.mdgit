@@ -1,0 +1,1 @@
+"# Git-to-learnin-boy"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/PapiTrinidad/Git-to-learnin-boy.gitgit push -u origin main
